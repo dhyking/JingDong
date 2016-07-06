@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <!--首页-->
+    <color name="toolbar_bg">#ff5044</color>
+    <color name="toolbar_search_bg">#eeeeee</color>
+    <color name="toolbar_search_text">#292828</color>
 </resources>

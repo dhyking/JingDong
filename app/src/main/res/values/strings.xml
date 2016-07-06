@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JingDong</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!--首页-->
+    <string name="text_home_hint_search">搜索京东商品/店铺</string>
 </resources>
