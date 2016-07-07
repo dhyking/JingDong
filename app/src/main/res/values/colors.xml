@@ -7,4 +7,5 @@
     <color name="toolbar_bg">#ff5044</color>
     <color name="toolbar_search_bg">#eeeeee</color>
     <color name="toolbar_search_text">#292828</color>
+    <color name="navigation_bottom_bg">#232222</color>
 </resources>

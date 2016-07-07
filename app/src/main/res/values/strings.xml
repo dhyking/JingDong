@@ -4,4 +4,10 @@
 
     <!--首页-->
     <string name="text_home_hint_search">搜索京东商品/店铺</string>
+
+    <string name="text_home_bottom_home">京东</string>
+    <string name="text_home_bottom_category">分类</string>
+    <string name="text_home_bottom_discover">发现</string>
+    <string name="text_home_bottom_shopcar">购物车</string>
+    <string name="text_home_bottom_myinfo">我的</string>
 </resources>
