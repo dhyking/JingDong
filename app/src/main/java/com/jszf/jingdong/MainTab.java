@@ -3,7 +3,6 @@ package com.jszf.jingdong;
 import com.jszf.jingdong.market.fragment.CategoryFragment;
 import com.jszf.jingdong.market.fragment.DiscoverFragment;
 import com.jszf.jingdong.market.fragment.HomeFragment;
-import com.jszf.jingdong.market.fragment.MyInfoFragment;
 import com.jszf.jingdong.market.fragment.ShopCarFragment;
 
 /**
@@ -13,8 +12,8 @@ public enum MainTab {
     HOME(0,"京东",R.drawable.home_bottom_jd, HomeFragment.class),
     CATEGORY(1,"分类",R.drawable.home_bottom_category, CategoryFragment.class),
     DISCOVER(2,"发现",R.drawable.home_bottom_discover, DiscoverFragment.class),
-    SHOP(3,"购物车",R.drawable.home_bottom_shop, ShopCarFragment.class),
-    MYINFO(4,"我的",R.drawable.home_bottom_myinfo, MyInfoFragment.class);
+    SHOP(3,"购物车",R.drawable.home_bottom_shop, ShopCarFragment.class);
+//    MYINFO(4,"我的",R.drawable.home_bottom_myinfo, MyInfoFragment.class);
 
     private int index;
     private String tag;

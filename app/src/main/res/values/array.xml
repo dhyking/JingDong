@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_bottom_unsel" >
+        <item >@drawable/main_bottom_tab_home_focus</item>
+        <item >@drawable/main_bottom_tab_category_focus</item>
+        <item >@drawable/main_bottom_tab_faxian_focus</item>
+        <item >@drawable/main_bottom_tab_cart_focus</item>
+        <item >@drawable/main_bottom_tab_personal_focus</item>
+    </string-array>
+    <string-array name="home_bottom_selected" >
+        <item >@drawable/main_bottom_tab_home_normal</item>
+        <item >@drawable/main_bottom_tab_category_normal</item>
+        <item >@drawable/main_bottom_tab_faxian_normal</item>
+        <item >@drawable/main_bottom_tab_cart_normal</item>
+        <item >@drawable/main_bottom_tab_personal_normal</item>
+    </string-array>
+
+</resources>
