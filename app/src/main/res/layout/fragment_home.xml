@@ -30,11 +30,10 @@
                 android:verticalSpacing="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"></GridView>
-            <LinearLayout
-                android:orientation="vertical"
-                android:layout_width="match_parent"
-                android:layout_height="300dp">
-            </LinearLayout>
+
+
         </LinearLayout>
+
+
     </com.jszf.jingdong.market.custom.view.CustomScrollView>
 </LinearLayout>

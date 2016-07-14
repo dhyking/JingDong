@@ -9,4 +9,9 @@
     <color name="white">#eeeeee</color>
     <color name="toolbar_search_text">#292828</color>
     <color name="navigation_bottom_bg">#232222</color>
+
+    <!--条形码-->
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
 </resources>

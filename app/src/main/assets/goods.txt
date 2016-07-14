@@ -1,0 +1,92 @@
+{
+    "goods": [
+        {
+            "goodsId": "100001",
+            "goodsName": "Levi's李维斯男士休闲时尚潮流短袖T恤82176-0005 灰/白 L",
+            "goodsIcon": "http://7xi38r.com1.z0.glb.clouddn.com/@/server_anime/goodsicons/goods01.jpg",
+            "goodsType": "服饰鞋包",
+            "goodsPrice": 153.00,
+            "goodsPercent": "好评96%",
+            "goodsComment": 1224,
+            "isPhone": 1,
+            "isFavor": 0
+        },
+        {
+            "goodsId": "100002",
+            "goodsName": "Levi's李维斯505系列男士舒适直脚牛仔裤00505-1185 牛仔色 36 34",
+            "goodsIcon": "http://7xi38r.com1.z0.glb.clouddn.com/@/server_anime/goodsicons/goods02.jpg",
+            "goodsType": "服饰鞋包",
+            "goodsPrice": 479.00,
+            "goodsPercent": "好评95%",
+            "goodsComment": 645,
+            "isPhone": 0,
+            "isFavor": 0
+        },
+		{
+		 "goodsId": "100003",
+            "goodsName": "GXG男装 京东专供 2015夏装新款 男士时尚白色修身圆领短袖T恤#42244315 白色 M",
+            "goodsIcon": "http://7xi38r.com1.z0.glb.clouddn.com/@/server_anime/goodsicons/goods03.jpg",
+            "goodsType": "服饰鞋包",
+            "goodsPrice": 149.00,
+            "goodsPercent": "暂无评价",
+            "goodsComment": 1856,
+            "isPhone": 0,
+            "isFavor": 0
+		},
+		{
+		 "goodsId": "100004",
+            "goodsName": "Apple iPad mini ME276CH/A 配备 Retina 显示屏 7.9英寸平板电脑 （16G WiFi版）深空灰色",
+            "goodsIcon": "http://7xi38r.com1.z0.glb.clouddn.com/@/server_anime/goodsicons/goods04.jpg",
+            "goodsType": "电脑数码",
+            "goodsPrice": 2139.00,
+            "goodsPercent": "好评97%",
+            "goodsComment": 865,
+            "isPhone": 0,
+            "isFavor": 0
+		},
+		{
+		 "goodsId": "100005",
+            "goodsName": "联想（ThinkPad）轻薄系列E450C(008CD) 14英寸笔记本电脑 （i3-4005U 4GB 500G+8GSSD 1G WIN8.1）",
+            "goodsIcon": "http://7xi38r.com1.z0.glb.clouddn.com/@/server_anime/goodsicons/goods05.jpg",
+            "goodsType": "电脑数码",
+            "goodsPrice": 3299.00,
+            "goodsPercent": "好评95%",
+            "goodsComment": 236,
+            "isPhone": 0,
+            "isFavor": 0
+		},
+		{
+		 "goodsId": "100006",
+            "goodsName": "罗技（Logitech）G502 自适应游戏鼠标",
+            "goodsIcon": "http://7xi38r.com1.z0.glb.clouddn.com/@/server_anime/goodsicons/goods06.jpg",
+            "goodsType": "服饰鞋包",
+            "goodsPrice": 499.00,
+            "goodsPercent": "好评95%",
+            "goodsComment": 115,
+            "isPhone": 0,
+            "isFavor": 0
+		},
+		{
+		 "goodsId": "100007",
+            "goodsName": "瑞士军刀（Swissgear）SA7777WH 12英寸时尚休闲型双肩电脑背包 米白色",
+            "goodsIcon": "http://7xi38r.com1.z0.glb.clouddn.com/@/server_anime/goodsicons/goods07.jpg",
+            "goodsType": "服饰鞋包",
+            "goodsPrice": 199.00,
+            "goodsPercent": "好评95%",
+            "goodsComment": 745,
+            "isPhone": 0,
+            "isFavor": 0
+		},
+		{
+		 "goodsId": "100008",
+            "goodsName": "创见（Transcend） 340系列 256G SATA3 固态硬盘(TS256GSSD340)",
+            "goodsIcon": "http://7xi38r.com1.z0.glb.clouddn.com/@/server_anime/goodsicons/goods08.jpg",
+            "goodsType": "电脑数码",
+            "goodsPrice": 569.00,
+            "goodsPercent": "好评95%",
+            "goodsComment": 854,
+            "isPhone": 1,
+            "isFavor": 0
+		}
+    ]
+}
